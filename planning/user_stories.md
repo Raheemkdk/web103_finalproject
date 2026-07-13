@@ -2,15 +2,13 @@
 
 Reference the Writing User Stories final project guide in the course portal for more information about how to complete each of the sections below.
 
-# User Stories
-
-## Outline User Roles
+## User Roles
 
 - **Guest** — a visitor who has not created an account
 - **User** — a registered user who logs meals and browses recipes
 - **Admin** — manages the recipe and ingredient database
 
-## Draft User Stories
+## User Stories
 
 1. As a guest, I want to browse recipes, so that I can explore the app before signing up.
 2. As a guest, I want to filter recipes by cook time, so that I can find meals that fit my schedule.
