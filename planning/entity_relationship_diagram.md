@@ -4,10 +4,48 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Create the List of Tables
 
-[👉🏾👉🏾👉🏾 List each table in your diagram]
+### Ingredients
+- id
+- id_of_user
+- title
+- body
+- nutrition_facts
+- icon
 
-## Add the Entity Relationship Diagram
+### Users
+- id
+- name
+- time_created
+- user_weight
+- budget
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
+### Record
+- id
+- record_type
+- body
+- id_of_user
+- time_created
+
+### Recipes
+- id
+- id_of_user
+- title
+- ingredients
+- body
+- icon
+- nutrition info
+
+### Meals
+- id
+- meal_name
+- id_of_user
+- time_created
+
+### Nutrient Intake
+- id
+- id_of_user
+- nutrients
+
+## Entity Relationship Diagram
 
 ![Entity Relationship Diagram](https://github.com/Raheemkdk/web103_finalproject/blob/main/planning/entity_relationship_diagram.png)
