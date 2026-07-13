@@ -4,9 +4,9 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-* Home 
-* Search
-* Food details
+* Home ⭐
+* Search ⭐
+* Food details ⭐
 * Profile
 * Explore 
 * Add nutrition/BMI/Meal record
@@ -28,5 +28,3 @@ The search page includes a search bar and displays popular searches and search h
 The food detail page shows the food name, photo, calories, and nutritional information.
 
 ![Food Detail Page Wireframe](./wireframes_pages/FoodDetailPage.jpeg)
-
-⭐
